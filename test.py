@@ -1,4 +1,7 @@
 print('hello world')
+<<<<<<< HEAD
+print('hi everybody')
+=======
 print('mix')
 print('crash on upstream')
 
@@ -7,3 +10,4 @@ print('crash on upstream')
 ## git merge upstream/main
 
 ## = git pull 
+>>>>>>> upstream/main
